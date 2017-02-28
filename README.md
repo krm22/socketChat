@@ -1,6 +1,10 @@
-# Socket.io Chat App using AngularJS
+# Socket.io Chat App using AngularJS , Node, Bootstrap.
 
-1) ` bower install `
+
+
+1a) npm install -g bower , npm install -g nodemon
+
+1b) ` bower install `
 
 2) ` npm install `
 
