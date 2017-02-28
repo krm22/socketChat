@@ -8,4 +8,6 @@
 
 2) ` npm install `
 
+3) `start with the 'nodemon' command`
+
 Running on port: 8000# socketChat
