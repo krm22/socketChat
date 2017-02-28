@@ -4,4 +4,4 @@
 
 2) ` npm install `
 
-Running on port: 8080# socketChat
+Running on port: 8000# socketChat

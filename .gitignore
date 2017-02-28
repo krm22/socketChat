@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# Modules
+node_modules/
+
+# Config
+config/dev.js
+
+
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
